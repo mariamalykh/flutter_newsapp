@@ -1,8 +1,5 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/mariamalykh/flutter_newsapp">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">Приложение для просмотра новостей</h3>
 
@@ -10,14 +7,6 @@
     Первое задание курса "Flutter" ВШПИ МФТИ
     <br/>
     <br/>
-    <a href="https://github.com/mariamalykh/flutter_newsapp"><strong>Explore the docs »</strong></a>
-    <br/>
-    <br/>
-    <a href="https://github.com/mariamalykh/flutter_newsapp">View Demo</a>
-    .
-    <a href="https://github.com/mariamalykh/flutter_newsapp/issues">Report Bug</a>
-    .
-    <a href="https://github.com/mariamalykh/flutter_newsapp/issues">Request Feature</a>
   </p>
 </p>
 
