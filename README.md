@@ -38,7 +38,7 @@ git clone https://github.com/mariamalykh/flutter_newsapp.git
 2. Получите список доступных эмуляторов, на которых можно запустить приложение:
 
 ```sh
-flutter emulators
+flutter devices
 ```
 
 3. Выберите нужный эмулятор и запустите на нем приложение:
